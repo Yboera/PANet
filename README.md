@@ -10,7 +10,7 @@ Official code repository for paper **Parallax-Aware Network for Light Field Sali
 </p>
 
 <p align="center">
-    <img src="picture/modules.png" width="100%"/> <br />
+    <img src="picture/modules.png" width="80%"/> <br />
  <em> 
      Details of the Parallax Processing Module (PPM).
     </em>

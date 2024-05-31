@@ -18,10 +18,7 @@ Official code repository for paper **Parallax-Aware Network for Light Field Sali
 
 
 ## Inference
-Download the pretrained model at [Baidu Driver](https://pan.baidu.com/s/1n0TT-R5oqmk4lZ_K9d0rGw) (PSW: xmhu).
-
-Generate saliency maps:
-- Run `python test.py`
+Coming soon!
 
 
 ## Results

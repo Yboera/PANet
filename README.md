@@ -33,7 +33,7 @@ Generate saliency maps:
 </p>
 
  ### Download
-The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/1D5Jqr7ql9ZPcV_tAshRYgg) (PSW: 1iuf).
+The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/147ex90RdbT6Fqjt1OQyDUQ) (PSW: kxxi).
 
 ## Citation
 Please cite the following paper if you use this repository in your research:

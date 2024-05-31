@@ -26,7 +26,7 @@ Generate saliency maps:
 
 ## Results
 <p align="center">
-    <img src="picture/results.JPG" width="100%"/> <br />
+    <img src="picture/results.PNG" width="100%"/> <br />
  <em> 
      Quantitative Results. “N/T” denotes unavailable results. ↑/↓ means that a larger/smaller value is better. The top two results are highlighted in <font color="red">red</font> and <font color="blue">blue</font>, respectively.
     </em>

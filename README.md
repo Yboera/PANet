@@ -18,7 +18,7 @@ Official code repository for paper **Parallax-Aware Network for Light Field Sali
 
 
 ## Inference
-Coming soon!
+Download the pretrained model at [Baidu Driver](https://pan.baidu.com/s/1F629WgkeGQuOtDVOfBjHKA) (PSW: xf97).
 
 
 ## Results
